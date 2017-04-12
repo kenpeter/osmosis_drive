@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cron": "^1.2.1",
+    "libxmljs-dom": "^0.0.8",
+    "moment": "^2.18.1",
+    "mongoose": "^4.9.4",
+    "needle": "^1.5.2",
+    "osmosis": "^1.1.2"
+  },
+  "scripts": {
+    "dev": "node osmosis_drive_run.js",
+    "start": "forever start -a -l forever.log -e err.log ./osmosis_drive.js",
+    "stop": "forever stop ./osmosis_drive.js"
+  }
+}

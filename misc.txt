@@ -1,0 +1,30 @@
+/*
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2017-03-14T05:01:30Z","description":"Talented PHP Developer with commercial experience and an eye on strategic thinking wanted!","employmentType":"Full Time","hiringOrganization":{"@type":"Organization","name":"10collective"},"industry":"Information & Communication Technology","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Eastern Suburbs","addressRegion":"Melbourne"}},"title":"PHP Developer (M2529)","url":"https://www.seek.com.au/job/33019010"}</script>
+
+
+{
+	"@context": "http://schema.org",
+	"@type": "JobPosting",
+	"datePosted": "2017-03-14T05:01:30Z",
+	"description": "Talented PHP Developer with commercial experience and an eye on strategic thinking wanted!",
+	"employmentType": "Full Time",
+	"hiringOrganization": {
+		"@type": "Organization",
+		"name": "10collective"
+	},
+	"industry": "Information & Communication Technology",
+	"jobLocation": {
+		"@type": "Place",
+		"address": {
+			"@type": "PostalAddress",
+			"addressLocality": "Eastern Suburbs",
+			"addressRegion": "Melbourne"
+		}
+	},
+	"title": "PHP Developer (M2529)",
+	"url": "https://www.seek.com.au/job/33019010"
+}
+
+{ script: '{"@context":"http://schema.org","@type":"JobPosting","datePosted":"2017-03-09T00:00:46Z","description":"James - 0415 676 072. Are you an awesome PHP Developer? Want to work in a truly awesome business? Look no further...","employmentType":"Full Time","hiringOrganization":{"@type":"Organization","name":"Just Digital People"},"industry":"Information & Communication Technology","jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"CBD & Inner Suburbs","addressRegion":"Melbourne"}},"title":"Full Stack PHP Developer","url":"https://www.seek.com.au/job/32984882"}' }
+
+*/
